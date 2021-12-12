@@ -12,7 +12,7 @@ node_js:
 dist: focal
 
 cache:
-  yarn: true
+  #yarn: true
   directories:
     # we also need to cache folder with Cypress binary
     - ~/.cache/Cypress
